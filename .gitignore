@@ -1,0 +1,37 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model weights
+*.pt
+*.pth
+*.ckpt
+
+
+# Dataset and augmentation exports
+*.zip
+*.tar.gz
+*.rar
+*.7z
+.DS_Store
+dataset/
+*.cache
+*.npz
+*.npy
+
+
+# VSCode/IDE
+.vscode/
+.idea/
+*.code-workspace

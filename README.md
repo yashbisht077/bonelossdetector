@@ -1,6 +1,6 @@
 # 🦷 Bone Loss Detection in Dental X-rays using YOLOv8
 
-**Internship Assignment Submission – Yash Singh**  
+**Internship Assignment Submission – Shankar Singh**  
 **Deadline**: 19 July 2025
 
 
